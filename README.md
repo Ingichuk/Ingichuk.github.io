@@ -8,6 +8,12 @@
 
 큰 세상을 바꿀 조그마한 아이디어, 저희에게 주십시오.
 
-# 연락처
+# 주요 구성
 
 - 이끄는 자 **[최재림](mailto://jrim.choi@gmail.com)**
+- 돈세는 자 **[김원재](http://github.com/akkiros)**
+- 만드는 자 **[최건우](mailto://6566gun@gmail.com)**
+- 취하는 자 **[임상진](mailto://limsangjin12@gmail.com)**
+- 즐기는 자 **[조남준](mailto://namjun.jo@gmail.com)**
+- 꾸미는 자 **[김찬울](mailto://spektrum@spektrum.kr)**
+- 일하는 자 **[박민수](mailto://minsoo1003@gmail.com)**
