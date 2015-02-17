@@ -10,7 +10,7 @@
 
 # 주요 구성
 
-- 이끄는 자 **[최재림](mailto://jrim.choi@gmail.com)**
+- 이끄는 자 **[최재림](http://github.com/jrim)**
   - 연세대학교 산업공학과
   - [Hobbytic](http://hobbytic.com) 기술책임자
 
@@ -18,22 +18,22 @@
   - 숭실대학교 컴퓨터학과
   - [IUM SOCIUS](http://www.i-um.com) 산업기능요원
 
-- 만드는 자 **[최건우](mailto://6566gun@gmail.com)**
+- 만드는 자 **[최건우](http://github.com/hardtack)**
   - 중앙대학교 컴퓨터공학과
   - [국방부](http://www.mnd.go.kr) 일병
 
-- 취하는 자 **[임상진](mailto://limsangjin12@gmail.com)**
+- 취하는 자 **[임상진](http://github.com/limsangjin12)**
   - 아주대학교 정보컴퓨터공학과
   - [국방부](http://www.mnd.go.kr) 일병
 
-- 즐기는 자 **[조남준](mailto://namjun.jo@gmail.com)**
+- 즐기는 자 **[조남준](http://github.com/blueless)**
   - 연세대학교 전기전자공학과
   - [공군](http://www.airforce.mil.kr) 상병
 
 - 꾸미는 자 **[김찬울](mailto://spektrum@spektrum.kr)**
   - 아주대학교 정보컴퓨터공학과
-  - [UKOV](http://ukov.kr) 대학생 인턴십
+  - [UKOV](http://ukov.kr) 대학생 벤쳐 기사단
 
-- 일하는 자 **[박민수](mailto://minsoo1003@gmail.com)**
+- 일하는 자 **[박민수](http://github.com/minsoopark)**
   - 아주대학교 정보컴퓨터공학과
   - [RIDI Corporation](http://www.ridicorp.com) 개발자
