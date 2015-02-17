@@ -30,7 +30,7 @@
   - 연세대학교 전기전자공학과
   - [공군](http://www.airforce.mil.kr) 상병
 
-- 꾸미는 자 **[김찬울](mailto://spektrum@spektrum.kr)**
+- 꾸미는 자 **[김찬울](http://github.com/studiogaram)**
   - 아주대학교 정보컴퓨터공학과
   - [UKOV](http://ukov.kr) 대학생 벤쳐 기사단
 
