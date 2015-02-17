@@ -52,18 +52,22 @@ ul li:last-child{
         margin-bottom:18px;
 }
 
-a{
+a,
+a:visited{
     color:inherit;   
     cursor: pointer;
     -webkit-transition: 0.5s ease;
     transition: 0.5s ease;
+    text-decoration: none;
 }
-a:hover{
+a:hover,
+a:active{
     background-color:#fff;
     color:#000;
     text-decoration: none;
     width:inherit;
 }
+
 
 p, ul{
     line-height: 1.6;   
