@@ -33,7 +33,7 @@ html {
 
 body {
     height:100%;
-	padding-top:190px;
+	padding-top:40px;
     -webkit-font-smoothing: antialiased;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     color:#fff;
@@ -80,9 +80,9 @@ p, ul{
 }
 
 .col-fixed-top{
-    position:fixed;
-    top:40px;
+    position:relative;
     margin-left:-3px;
+    margin-bottom:40px;
 }
 .col-fixed-bottom{
     position:fixed;
@@ -98,6 +98,7 @@ p, ul{
     .col-fixed-top{
         position:relative;
         top:0px;
+        margin-bottom:0px;
     }
     .col-fixed-bottom{
         position:fixed;
@@ -113,6 +114,7 @@ p, ul{
     .col-fixed-top{
         position:fixed;
         top:80px;
+        margin-bottom:0px;
     }
     .col-fixed-bottom{
         position:fixed;
