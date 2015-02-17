@@ -1,7 +1,127 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>UNIVBOX 프로젝트</title>
+    
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="css/bootstrap-patch.css" rel="stylesheet">
+    
+    <!-- PACE JS -->
+    <script src="js/pace.min.js"></script>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="img/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="img/manifest.json">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
+    <meta name="theme-color" content="#000000">
+
+    <!-- Fonts -->
+    <link href="css/fonts.css" rel="stylesheet">
+    
+    <!-- OG Tag -->
+    <meta property="og:title" content="인문과 기술의 척도, 인기척" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://ingichuk.github.io" />
+    <meta property="og:image" content="img/fbog.png" />
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="col-fixed-top">
+                    <p class="heading">인문과 기술의 척도,</p>
+                    <p class="heading bold">인기척</p>
+                    <a class="italic" href="http://ingichuk.github.io">http://ingichuk.github.io</a>
+                </div>
+                <img class="col-fixed-bottom" src="img/logoIndex.png">
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <p class="note">
+                    인기척에는 수많은 인재들이 있습니다.<br>
+                    저희는 늘 새 프로젝트를 갈망하고 있습니다.<br>
+                    젊음을 갖춘 최고의 공학자, 철학자, 예술가들이 어우러져
+                    청춘을 불태우고 있습니다.<br>
+                    큰 세상을 바꿀 조그마한 아이디어,<br>저희에게 주십시오.
+                </p>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <p class="note">
+                    이끄는 자 <a class="bold" src="https://www.facebook.com/jrim.choi" target="_blank">최재림</a><br>
+                    연세대학교 산업공학과<br>
+                    Hobbytic 기술책임자<br>
+                    -<br>
+                    돈세는 자 김원재<br>
+                    숭실대학교 컴퓨터학과<br> 
+                    IUM SOCIUS 산업기능요원<br> 
+                    -<br>
+                    만드는 자 최건우<br>  
+                    중앙대학교 컴퓨터공학과<br> 
+                    국방부 일병<br>
+                    -<br>
+                    취하는 자 임상진<br>
+                    아주대학교 정보컴퓨터공학과<br> 
+                    국방부 일병<br>
+                    -<br>
+                    즐기는 자 조남준<br>
+                    연세대학교 전기전자공학과<br>
+                    공군 상병<br>
+                    -<br>
+                    꾸미는 자 김찬울 <br>
+                    아주대학교 정보컴퓨터공학과<br>
+                    UKOV 대학생 벤쳐 기사단<br>
+                    -<br>
+                    일하는 자 박민수<br>
+                    아주대학교 정보컴퓨터공학과<br>
+                    RIDI Corporation 개발자
+                </p>
+            </div>
+        </div>
+    </div>
+
+    
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Customized JS -->
+    
+    
+    <!-- Facebook page-->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&appId=336009416539003&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
 </body>
 </html>
