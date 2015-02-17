@@ -14,7 +14,7 @@
   - 연세대학교 산업공학과
   - [Hobbytic](http://hobbytic.com) 기술책임자
 
-- 돈세는 자 **[김원재](http://github.com/akkiros)**
+- 외로운 자 **[김원재](http://github.com/akkiros)**
   - 숭실대학교 컴퓨터학과
   - [IUM SOCIUS](http://www.i-um.com) 산업기능요원
 
@@ -34,6 +34,6 @@
   - 아주대학교 정보컴퓨터공학과
   - [UKOV](http://ukov.kr) 대학생 벤쳐 기사단
 
-- 일하는 자 **[박민수](http://github.com/minsoopark)**
+- 탐나는 자 **[박민수](http://github.com/minsoopark)**
   - 아주대학교 정보컴퓨터공학과
   - [RIDI Corporation](http://www.ridicorp.com) 개발자
