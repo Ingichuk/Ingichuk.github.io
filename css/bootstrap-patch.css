@@ -140,11 +140,17 @@ p, ul {
     margin-bottom: 1px;
 }
 
+.sub-heading {
+    font-size: 24px;
+    line-height: 1.2;
+    margin-bottom: 16px;
+}
+
 .seperator {
     height: 4px;
     width: 23px;
     background-color: #fff;
-    margin-top: 20px;
+    margin-top: 32px;
     margin-bottom: 16px;
 }
 
